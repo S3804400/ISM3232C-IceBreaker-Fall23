@@ -3,3 +3,6 @@
 ## Fall 2023
 
 - 8/28/2023 Pamela Brauda 
+- 9/8/2023 Howard Stanley
+
+  
